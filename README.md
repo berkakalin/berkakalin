@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @berkakalin
 - 👀 I’m interested in ai
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and cyber security
 
 
 <!---
